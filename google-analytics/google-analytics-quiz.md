@@ -123,7 +123,7 @@
 #### Q20. Of the following segments, which represents the highest value audience?
 - [ ] users who converted
 - [ ] sessions with a >80% bounce rate
-- [ ] all multisession users
+- [x] all multisession users
 - [ ] sessions with 0 goal completions
 
 #### Q21. If you wanted to determine if a particular browser was resulting in a high bounce rate, what report could you look at?
@@ -136,7 +136,7 @@
 - [ ] Hit: Download // Event: Sample Tone // Content: Music
 - [ ] Category: Music // Action: Download // Label: Sample Tone
 - [ ] Category: Download // Event: Music // Label: Sample Tone
-- [ ] Hit: Music // Event: Download //Content: Sample Tone
+- [x] Hit: Music // Event: Download //Content: Sample Tone
 
 #### Q23. You want to classify people who join your newsletter with a custom dimension for "Newsletter Subscribers." What is the appropriate scope to apply to this custom dimension?
 - [x] User
@@ -236,7 +236,7 @@
 
 #### Q39. Your website has a logged in experience for users. What do you implement to track individual engagement across multiple sessions and multiple devices?
 - [ ] Client- [ ] ID
-- [ ] User- [ ] ID
+- [x] User- [ ] ID
 - [ ] cross- [ ] domain tracking
 - [ ] session unification
 
@@ -267,7 +267,7 @@
 #### Q44. What can you use as the basis for remarketing within Google Ads?
 - [ ] dynamics
 - [ ] personas
-- [ ] audiences
+- [x] audiences
 - [ ] tags
 
 #### Q45. If you want to exclude traffic to your website from people on your company network, what do you create?
@@ -301,7 +301,7 @@
 - [ ] User > Hit > Session
 
 #### Q50. Which feature would allow you to navigate between multiple reports while comparing the data collected for visitors in Los Angeles to the data for visitors in London?
-- [ ] segments
+- [x] segments
 - [ ] filters
 - [ ] views
 - [ ] dimensions
@@ -355,7 +355,7 @@
 - [ ] It is random.
 
 #### Q59.If a user fills in a contact form and provides an email address, which report would contain that information?
-- [ ] Behavior > Events > Overview
+- [x] Behavior > Events > Overview
 - [ ] Acquisition > Social > Form Submissions
 - [ ] Acquisition > Social > Users Flow
 - [ ] No report contains this information.
@@ -388,16 +388,16 @@
 - [ ] Google Ads data sync
 - [ ] enhanced UTM tracking
 - [ ] Google Adsense data sync
-- [ ] Demographics and Interests reports
+- [x] Demographics and Interests reports
 
 #### Q65. Which choice is an example of a micro goal?
 - [ ] playing a video before signing up
 - [ ] buying a product after reading an email
 - [ ] filling out a contact form after reading a social post
-- [ ] signing up for an account after clicking an ad
+- [x] signing up for an account after clicking an ad
 
 #### Q65. What is the latest version of the analytics tracking tag?
 - [ ] gtag.js
 - [ ] urchin.js
 - [ ] gaq.push and ga.js
-- [ ] analytics.js
+- [x] analytics.js
